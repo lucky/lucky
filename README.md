@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+No, this Github account is not for sale, at least not for less than six figures.
+
 <!--
 **lucky/lucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
